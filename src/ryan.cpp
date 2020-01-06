@@ -1,5 +1,6 @@
 //Written by Ryan Burgert 2020
 //Some utility functions I'm using.
+#include "../include/escaper.h"
 
 #include "../include/ryan.h"
 String userInputPrompt(const String &prompt)

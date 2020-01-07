@@ -1,3 +1,5 @@
+#include "../lib/ArduinoJson/ArduinoJson.h"
+
 #include "../include/escaper.h"
 
 bool Unescaper::feed(char c)

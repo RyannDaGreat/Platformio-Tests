@@ -7,6 +7,7 @@
 
 #include "../include/escaper.h"
 #include "../include/ryan.h"
+#include "../lib/ArduinoJson/ArduinoJson.h"
 
 Unescaper u;
 void handler(char*message,unsigned int length)
